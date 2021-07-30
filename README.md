@@ -109,4 +109,6 @@ Henrique Petrelli - henriquepetrelli96@gmail.com
 
 Project Link: [https://github.com/HenriquePetrelli/transactions](https://github.com/HenriquePetrelli/transactions)
 
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/henrique-petrelli/
