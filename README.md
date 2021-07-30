@@ -1,10 +1,5 @@
-
-
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
 
@@ -12,103 +7,94 @@
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
-  <summary>Table of Contents</summary>
+  <summary>Sumário</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#sobre-o-projeto">Sobre o Projeto</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#construido-com">Construído com</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#começando">Começando</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#pre-requisitos">Pré Requisitos</a></li>
+        <li><a href="#instalação">Instalação</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#uso">Uso</a></li>
+      <li><a href="#observation">Observações</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
+<!-- SOBRE O PROJETO -->
+## Sobre o projeto
 
+O projeto foi criado com o intúito de melhor uma visualização de transações. Os dados vem de uma API fictícia criada pela Warren Brasil.
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+- É possível filtrar transações pelo nome e seu status.
+- Possui a versão em Português-BR e Inglês com suas respectivas coversões de moedas.
+- Possui layout responsivo, tanto para mobile quanto para desktop.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- CONSTRUIDO COM -->
+### Construído com
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+- [Angular](https://angular.io/)
+- [Less](https://lesscss.org/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [Mock](https://mockapi.io/)
+- [Cypress](https://www.cypress.io/)
+- [Angular-Toastr](https://www.npmjs.com/package/angular-toastr)
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+<!-- COMEÇANDO -->
+## Começando
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+<!-- PRE REQUISITOS -->
+### Pre Requisitos
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+- npm
   ```sh
   npm install npm@latest -g
   ```
+<!-- INSTALAÇÃO -->
+### Instalação
 
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone o repósitorio na sua máquina
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/HenriquePetrelli/transactions.git
    ```
-3. Install NPM packages
+2. Instalar pacotes NPM
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
 
+<!-- Uso -->
+## Uso
 
+- Rodando o projeto localmente
+  ```sh
+  ng serve
+  ```
+- Rodando o testes de ponta a ponta
 
-<!-- USAGE EXAMPLES -->
-## Usage
+  ```sh
+  npm run cypress:open
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+  ```
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+- Acessar Projeto em Produção
+  [Netlify](https://transactions-warren.netlify.app/)
 
-<!-- CONTACT -->
-## Contact
+  <!-- OBSERVAÇÃO -->
+## Observação
+
+<!-- CONTATO -->
+## Contato
 
 Henrique Petrelli - henriquepetrelli96@gmail.com
 
 Project Link: [https://github.com/HenriquePetrelli/transactions](https://github.com/HenriquePetrelli/transactions)
-
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/henrique-petrelli/
