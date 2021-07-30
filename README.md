@@ -27,7 +27,6 @@
       <ul>
         <li><a href="#Melhor forma para futuras implementações">Melhorias para futuras implementações</a></li>
       </ul>
-     
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
