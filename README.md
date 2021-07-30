@@ -24,6 +24,10 @@
     </li>
     <li><a href="#uso">Uso</a></li>
       <li><a href="#observation">Observações</a></li>
+      <ul>
+        <li><a href="#Melhor forma para futuras implementações">Melhorias para futuras implementações</a></li>
+      </ul>
+     
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -88,13 +92,19 @@ O projeto foi criado com o intúito de melhor uma visualização de transações
 
   <!-- OBSERVAÇÃO -->
 ## Observação
+* Projeto onde tive primeiro contato com teste de ponta a ponta (e2e), fiz uso do framework Cypress, que possui uma documentação bem organizada e que me ajudou muito no desenvolvimento.
+* Optei por incluir no projeto 2 idiomas, pois a api da Warren Brasil retorna dados com diferentes idiomas no mesmo Json.
+* Apesar de não ser a forma mais correta para uma futura implementação, optei por incluir uma rotas de Mock que criei com as informações traduzidas de acordo com a linguagem passada por parâmetro.
+
+### Melhorias para futuras implementações
+* Criar um enpoint, que chamado passando o parâmetro do idioma selecionado pelo usuário em tela, retornará um Json com as informações tanto de transações como labels, formulários, entre outros elementos usados em tela. Para que com isso seja possível a construção de uma aplicação 100% dinâmica se baseando no idioma.
 
 <!-- CONTATO -->
 ## Contato
 
 Henrique Petrelli - henriquepetrelli96@gmail.com
 
-Project Link: [https://github.com/HenriquePetrelli/transactions](https://github.com/HenriquePetrelli/transactions)
+Link do Projeto: [https://github.com/HenriquePetrelli/transactions](https://github.com/HenriquePetrelli/transactions)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/henrique-petrelli/
