@@ -12,7 +12,7 @@
     <li>
       <a href="#sobre-o-projeto">Sobre o Projeto</a>
       <ul>
-        <li><a href="#construido-com">Construído com</a></li>
+        <li><a href="#construído-com">Construído com</a></li>
       </ul>
     </li>
     <li>
