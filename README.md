@@ -38,5 +38,6 @@
   </a>
 </p>
 <br/>
-  ![Snake animation](https://github.com/henriquepetrelli/Readme/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/henriquepetrelli/Readme/blob/output/github-contribution-grid-snake.svg)
 <!-- BLOG-POST-LIST:END -->
