@@ -1,12 +1,8 @@
-
-<h3 align="center">
-  Bem vindo ao meu perfil!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Henrique%20Petrelli;Desenvolvedor%20Front-end&font=Fira%20Code&center=true&width=440&height=45&color=E02B57&vCenter=true&size=22"></a>
 </p>
+<br />
+<br />
 
 <p align="center">
    <a href="mailto: henriquepetrelli96@gmail.com"><img width="32px" alt="Email" title="Email" src="https://i.imgur.com/wDH8xAs.png"></a>
