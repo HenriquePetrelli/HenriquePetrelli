@@ -1,3 +1,4 @@
+<!-- BLOG-POST-LIST:START -->
 <h3 align="center">
   Bem vindo ao perfil do Henrique Petrelli!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -36,3 +37,4 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HenriquePetrelli&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
+<!-- BLOG-POST-LIST:END -->
