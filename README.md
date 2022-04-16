@@ -30,7 +30,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HenriquePetrelli&theme=monokai-metallian&hide_border=true&bg_color=1F222E&title_color=E02B57&icon_color=E02B57"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="http://github-readme-streak-stats.herokuapp.com?user=HenriquePetrelli&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=E02B57&ring=E02B57&fire=E02B57&currStreakNum=E02B57&sideLabels=E02B57&sideNums=E0E0E0&currStreakLabel=E02B57&border=E02B57"/>
   </a>
 </p>
 <br/>
