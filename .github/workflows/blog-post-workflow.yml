@@ -11,6 +11,7 @@ jobs:
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v2
+      - uses: lowlighter/metrics@latest
       - uses: HenriquePetrelli/Readme@main
         with:
           max_post_count: "4"
