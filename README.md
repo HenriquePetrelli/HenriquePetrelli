@@ -18,15 +18,17 @@
 <br/>
 
  ## <img src="https://i.imgur.com/Zspr9tS.png" width="32px">  Github
-
-  <br/>
+ <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dados do Github do Henrique Petrelli" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=HenriquePetrelli&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=E02B57&icon_color=E02B57" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Linguagens mais usadas de Henrique Petrelli" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriquePetrelli&langs_count=8&layout=compact&hide_border=true&bg_color=1F222E&title_color=E02B57&icon_color=E02B57&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
+  
+<br/>
 
+<br/>
 
 ## <img src="https://i.imgur.com/5OmQIRf.png" width="32px">  Melhores resultados
 
+<br/>
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
