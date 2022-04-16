@@ -11,8 +11,7 @@ jobs:
     runs-on: macos-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: lowlighter/metrics@latest
-      - uses: HenriquePetrelli/Readme@main
+      - uses: HenriquePetrelli/Readme/metrics@main
         with:
           max_post_count: "4"
           feed_list: "https://dev.to/feed/itszed0"
