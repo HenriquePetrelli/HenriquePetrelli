@@ -37,4 +37,6 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HenriquePetrelli&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
+
+  ![Snake animation](https://github.com/henriquepetrelli/Readme/blob/output/github-contribution-grid-snake.svg)
 <!-- BLOG-POST-LIST:END -->
