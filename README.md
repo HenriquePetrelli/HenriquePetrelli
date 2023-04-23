@@ -13,8 +13,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/henriquepetrelli/" alt="Instagram"><img width="32px" src="https://i.imgur.com/8pQLVkb.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.twitch.tv/kikescope"><img width="32px" alt="Twitch" title="Twitch" src="https://i.imgur.com/JrBRRGe.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+
 </p>
 
 <br/>
